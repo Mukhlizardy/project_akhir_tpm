@@ -43,9 +43,9 @@ flutter:
   uses-material-design: true
 
   # Assets
-  assets:
-    - assets/images/
-    - assets/icons/
+  #assets:
+  # - assets/images/
+  # - assets/icons/
 
   # Fonts (optional)
   # fonts:
